@@ -1,6 +1,6 @@
 ---
 title: "Hexo & Github 搭建个人博客"
-date: 2021年9月1日 22:46:00
+date: 2021/9/1 22:46:05
 ---
 
 [Hexo](https://github.com/hexojs/hexo) 是开源博客工具，配合 GitHub，可以搭建个人免费博客
@@ -114,3 +114,7 @@ theme: next
 [同一客户端下使用多个git账号](https://www.jianshu.com/p/89cb26e5c3e8)
 
 [使用git分支保存hexo博客源码到github](http://www.yangbing.club/2019/06/29/save-hexo-source-post-with-git-branch/)
+
+[Hexo 博客创建 categories 和 tags 页面](https://xring.info/2018/hexo-category-and-tag-page.html)
+
+[用Hexo搭建blog小记](https://www.chamwen.com/2018/03/08/tool_hexo/)
