@@ -1,5 +1,6 @@
 ---
-Hexo & Github 搭建个人博客
+title: "Hexo & Github 搭建个人博客"
+date: 2021年9月1日 22:46:00
 ---
 
 [Hexo](https://github.com/hexojs/hexo) 是开源博客工具，配合 GitHub，可以搭建个人免费博客
