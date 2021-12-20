@@ -12,5 +12,5 @@ tags: iOS，爱思考
 ```
 这个方法默认不实现任何东西。子类可以重写该方法，并利用如 Core Graphics 和 UIKit 技术进行绘制。UIKit 提供 UIGraphicsGetCurrentContext() 来获取 context 方法，并对其坐标进入了转换。
 
-可以用 setNeedsDisplay() 或 r setNeedsDisplay(_:) 方法标记 View 需要重新绘制。
+可以用 setNeedsDisplay() 或 setNeedsDisplay(_:) 方法标记 View 需要重新绘制。
 ```
