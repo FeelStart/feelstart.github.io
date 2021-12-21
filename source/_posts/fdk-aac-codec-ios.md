@@ -37,6 +37,8 @@ arch -arch x86_64 ./build-fdk-aac.sh
 
 修改 buiild setting -> Search Header Path: ``` $SRCROOT/fdk-aac/include ```
 
+build setting -> excluded archiectures -> debug -> arm64
+
 ## 参考
 
 [编译fdk-aac的ios版本](https://www.jianshu.com/p/129de9d6b21d)
